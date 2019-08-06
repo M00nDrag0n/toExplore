@@ -1,0 +1,22 @@
+body {
+  font-family: 'Spectral';
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-style: italic;
+  color: #1431C1;
+}
+
+#Maui img {
+  length: 650px;
+  width: 650px;
+  height: 650px;
+}
+
+#Anise img {
+  length: 650px;
+  width: 650px;
+  height: 650px;
+}
