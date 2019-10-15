@@ -3,20 +3,33 @@ body {
   font-size: 20px;
 }
 
-h1 {
-  text-align: center;
-  font-style: italic;
-  color: #1431C1;
+
+#img-1 img{
+  min-height: 250px;
+  max-height: 500px;
+  width: 120%;
+  size: cover;
+
+  transform: rotate(180deg);
 }
 
-#Maui img {
-  length: 650px;
-  width: 650px;
-  height: 650px;
+#Anise:hover {
+  width: 500%;
+  height: 1%;
 }
 
 #Anise img {
-  length: 650px;
-  width: 650px;
-  height: 650px;
+  length: 450px;
+  width: 450px;
+  height: 250px;
+  color: white;
+}
+
+#Anise:hover p {
+  font-family: 'Serif';
+  font-size: 100px;
+}
+
+#Anise {
+  font-size: 10px;
 }
